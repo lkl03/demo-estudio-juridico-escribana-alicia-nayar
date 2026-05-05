@@ -1,2 +1,7 @@
-# demo-estudio-juridico-escribana-alicia-nayar
-Demo web para Estudio Jurídico Escribana Alicia Nayar — diseñada por eterlab.
+# Estudio Jurídico Escribana Alicia Nayar
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
